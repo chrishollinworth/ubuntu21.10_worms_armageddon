@@ -1,4 +1,4 @@
-# Automated Worms Armageddom Install for Ubuntu impish
+# Automated Worms Armageddon Install for Ubuntu impish
 
 ## Installation
 
