@@ -4,6 +4,6 @@
 
 ./install_wa_ubuntu.sh
 
-## Run Worm Armageddom
+## Run Worm Armageddon
 
 ./run_worms.sh
